@@ -1,0 +1,12 @@
+.nav_bg{
+    background: transparent!important;
+}
+
+.nav-link{
+    color: teal;
+    font-weight: bold;
+}
+.menu-active{
+    color: orange;
+    border-bottom:1px solid orange
+}
